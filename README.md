@@ -1,5 +1,5 @@
 ### Dynamic Dropdown
-[![N|Solid](https://github.com/ishworprasadrijal/dynamic-dropdown/blob/master/preview.PNG)](https://github.com/ishworprasadrijal/dynamic-dropdown)
+[![N|Solid](https://github.com/ishworprasadrijal/dynamic-dropdown/blob/master/preview.png)](https://github.com/ishworprasadrijal/dynamic-dropdown)
 
 Dynamic Dropdown is a js functionality developed by [Ishwor Prasad Rijal](https://github.com/ishworprasadrijal) to dynamically update elements of dropdown and allow search filter too on all dropdowns.
 
